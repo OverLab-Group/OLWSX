@@ -45,5 +45,6 @@ But one condition: Always name the **OverLab Group** and **OLWSX** — even if y
 
 ---
 
-Current milestone: Initial Core v1.0.
+Current milestone: Initial Core v0.1.
+
 ```By OverLab Group.```
